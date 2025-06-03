@@ -1,14 +1,14 @@
 
 import React from 'react';
 import { Button } from '../components/ui/button';
-import { Shield } from 'lucide-react';
+import { ShieldCheck } from 'lucide-react';
 
 const Navbar = () => {
   return (
     <nav className="fixed w-full bg-white/90 backdrop-blur-sm z-50 py-4 shadow-sm">
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-2">
-          <Shield className="h-8 w-8 text-safeescape-blue" />
+          <ShieldCheck className="h-8 w-8 text-safeescape-blue" />
           <span className="text-xl font-bold text-safeescape-dark">SafeEscape</span>
         </div>
         
