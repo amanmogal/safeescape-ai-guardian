@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-react';
 const Hero = () => {
   return (
     <div className="relative min-h-screen flex items-center bg-gradient-to-br from-white via-blue-50 to-blue-100 pt-16">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1506744038136-46273834b3fb')] bg-cover bg-center opacity-10"></div>
+      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05')] bg-cover bg-center opacity-10"></div>
       
       <div className="container mx-auto relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -40,9 +40,9 @@ const Hero = () => {
               <div className="absolute inset-0 bg-safeescape-blue rounded-[40px] blur-xl opacity-20 animate-pulse-subtle"></div>
               <div className="relative bg-white p-3 rounded-[36px] shadow-2xl border-8 border-white">
                 <img 
-                  src="/lovable-uploads/f6dd254d-61c5-49b6-98f4-d2a24be8767e.png" 
-                  alt="SafeEscape Emergency App Interface showing map with emergency services and evacuation routes" 
-                  className="w-full h-auto rounded-[24px] object-cover aspect-[9/16]"
+                  src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158" 
+                  alt="SafeEscape Emergency App Interface" 
+                  className="w-full h-auto rounded-[24px] object-cover"
                 />
                 <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 bg-safeescape-blue/90 text-white px-6 py-3 rounded-full font-medium text-sm backdrop-blur-sm">
                   AI-Powered Safety
