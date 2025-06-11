@@ -42,7 +42,7 @@ const CallToAction = () => {
             </div>
             
             <a 
-              href="https://github.com/sahil28032005/SafeEscape-MVP---AI-Powered-Emergency-Alert-App/releases" 
+              href="https://github.com/sahil28032005/SafeEscape-MVP---AI-Powered-Emergency-Alert-App/releases/download/v2.0.0/SafeEscape.apk" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-white hover:bg-gray-100 text-safeescape-blue font-medium px-8 py-4 rounded-lg transition-all inline-flex items-center"
