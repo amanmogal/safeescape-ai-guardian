@@ -40,8 +40,8 @@ const Hero = () => {
               <div className="absolute inset-0 bg-safeescape-blue rounded-[40px] blur-xl opacity-20 animate-pulse-subtle"></div>
               <div className="relative bg-white p-3 rounded-[36px] shadow-2xl border-8 border-white">
                 <img 
-                  src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158" 
-                  alt="SafeEscape App Interface" 
+                  src="https://images.unsplash.com/photo-1556075798-4825dfaaf498" 
+                  alt="SafeEscape Emergency App Interface" 
                   className="w-full h-auto rounded-[24px] object-cover"
                 />
                 <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 bg-safeescape-blue/90 text-white px-6 py-3 rounded-full font-medium text-sm backdrop-blur-sm">
